@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette duree="1h45" difficulte="facile" source="http://www.meilleurduchef.com">
+  <titre>Poisson à la sénégalaise (Penda Mbaye)</titre>
+  <liste_ingredient nb_convive="">
+    <ingredient quantite="1,5" unite="kg">poisson maigre ou charnu</ingredient>
+    <ingredient quantite="50" unite="g">fruits de mer (moules, coques, crevettes...) <important>bien frais</important></ingredient>
+    <ingredient quantite="150" unite="g">tomate concentrée</ingredient>
+    <ingredient quantite="150" unite="g">oignons</ingredient>
+    <ingredient quantite="500" unite="g">riz</ingredient>
+    <ingredient quantite="3">aubergines</ingredient>
+    <ingredient quantite="3">carottes</ingredient>
+    <ingredient quantite="3">navets</ingredient>
+    <ingredient>piment</ingredient>
+    <ingredient quantite="200" unite="g">tomates fraîches</ingredient>
+    <ingredient quantite="1">poivron vert</ingredient>
+    <ingredient>chou-fleur</ingredient>
+    <ingredient>huile d'olive</ingredient>
+    <ingredient quantite="1">gousse d'ail</ingredient>
+    <ingredient>sel</ingredient>
+    <ingredient>poivre</ingredient>
+  </liste_ingredient>
+  <liste_etapes>
+    <etape>Faire suer à l'huile d'arachide, les oignons hachés, l'ail écrasé et le poivron vert émincé finement.</etape>
+    <etape>Concasser les tomates et tailler en paysanne les carottes et les navets.</etape>
+    <etape>Les ajouter dans la cocotte.</etape>
+    <etape>Ajouter également le concentré de tomates.</etape>
+    <etape>Bien remuer.</etape>
+    <etape>Mouiller avec un grand verre d'eau.</etape>
+    <etape>Ajouter les aubergines taillées en dés le chou-fleur coupé en sommités et bien mélanger.</etape>
+    <etape>Cuire <important>à couvert</important> pendant une vingtaine de minutes.</etape>
+    <etape>Retirer le couvercle et disposer sur les légumes les morceaux de poisson coupé en gros morceaux.</etape>
+    <etape>Ajouter les fruits de mer au dessus du poisson et cuire à couvert une quinzaine de minutes.</etape>
+    <etape>Le poisson va cuire à l'étouffé en s'imprégnant des parfums des légumes.</etape>
+    <etape>Au terme de la cuisson, retirer le couvercle remuer délicatement afin de vérifier que la sauce n'ait pas attaché au fond du récipient de cuisson. Rectifier l'assaisonnement.</etape>
+    <etape>Réserver au chaud.</etape>
+    <etape>Servir chaud.</etape>
+  </liste_etapes>
+  <accord_boisson type="vin blanc">
+      un bandol blanc
+  </accord_boisson>
+</recette>

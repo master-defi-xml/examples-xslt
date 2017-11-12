@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<recette>
+<?xml version="1.0"?>
+<recette duree="1h45" difficulte="facile" source="http://www.meilleurduchef.com">
   <titre>Poisson à la sénégalaise (Penda Mbaye)</titre>
-  <duree>1h45</duree>
-  <difficulte>facile</difficulte>
-  <source>http://www.meilleurduchef.com</source>
-  <nb_convives>4 à 5</nb_convives>
+  
+  
+  
+  
   <ingredient quantite="1,5" unite="kg">poisson maigre ou charnu</ingredient>
   <ingredient quantite="50" unite="g">fruits de mer (moules, coques, crevettes...) <important>bien frais</important></ingredient>
   <ingredient quantite="150" unite="g">tomate concentrée</ingredient>
